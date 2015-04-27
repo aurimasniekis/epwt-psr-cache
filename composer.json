@@ -1,6 +1,6 @@
 {
   "name": "epwt/psr-cache",
-  "type": "metapackage",
+  "type": "interfaces",
   "description": "PSR-6 Cache Interfaces will be replaced by psr/cache",
   "keywords": ["epwt", "psr-6", "psr-cache", "psr", "cache"],
   "homepage": "http://github.com/gcds",
