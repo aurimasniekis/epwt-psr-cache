@@ -22,9 +22,6 @@
       "dev-master": "1.0-dev"
     }
   },
-  "provide": {
-    "psr/cache-implementation": "1.0.0"
-  },
   "replace": {
     "psr/cache": "1.0.0"
   }
