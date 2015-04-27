@@ -1,8 +1,8 @@
 {
   "name": "epwt/psr-cache",
-  "type": "EPWT PSR-6 Cache Interfaces",
+  "type": "metapackage",
   "description": "PSR-6 Cache Interfaces will be replaced by psr/cache",
-  "keywords": ["epwt", "psr-6", "psr/cache", "psr", "cache"],
+  "keywords": ["epwt", "psr-6", "psr-cache", "psr", "cache"],
   "homepage": "http://github.com/gcds",
   "license": "MIT",
   "authors": [
@@ -19,7 +19,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0.0"
+      "dev-master": "1.0-dev"
     }
   },
   "provide": {
